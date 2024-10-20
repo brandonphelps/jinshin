@@ -1,0 +1,9 @@
+
+# Recursively Get Files
+
+If a existing folder path is provided then returns an iterator
+that yield every file as an absolute path within the provided
+folder. 
+
+
+

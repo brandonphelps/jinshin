@@ -1,0 +1,4 @@
+
+# Recurisve file get
+
+if the folder does not exist then the iterator will yield nothing. 
